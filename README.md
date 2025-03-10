@@ -18,7 +18,7 @@ Amazon Elastic Compute Cloud (EC2) is a cloud service that enables users to rent
 ## Prerequisites
 - An **AWS Free Tier** account (750 hours/month free for t2.micro instances)
 - Basic knowledge of cloud computing and Linux/Windows environments
-- An SSH client (e.g., PuTTY, OpenSSH) for connecting to instances
+- An SSH client (e.g., PuTTY, OpenSSH, MobaxTerm) for connecting to instances
 
 ## Launching an EC2 Instance
 1. **Create an AWS Free Tier Account**  
