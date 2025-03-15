@@ -5,7 +5,7 @@ This repository provides a step-by-step guide to launching and configuring an Am
 ## Table of Contents 
 
 - [Introduction](#introduction) 
-- [Prerequisites](#prerequisites)    
+- [Prerequisites](#prerequisites)   
 - [Launching an EC2 Instance](#launching-an-ec2-instance) 
 - [Networking and Security](#networking-and-security)
 - [Configuring Storage](#configuring-storage)
