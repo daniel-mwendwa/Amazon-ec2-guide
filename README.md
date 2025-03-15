@@ -2,7 +2,6 @@
 
 ## Overview 
 This repository provides a step-by-step guide to launching and configuring an Amazon EC2 instance on AWS. It covers essential topics such as selecting the Amazon Machine Image (AMI), configuring networking (VPC, Security Groups), setting up a key pair, resizing storage, and automating tasks with User Data scripts.
-
 ## Table of Contents 
  
 - [Introduction](#introduction) 
