@@ -9,7 +9,7 @@ This repository provides a step-by-step guide to launching and configuring an Am
 - [Launching an EC2 Instance](#launching-an-ec2-instance) 
 - [Networking and Security](#networking-and-security)
 - [Configuring Storage](#configuring-storage)
-- [Automation with User Data](#automation-with-user-data)
+- [Automation with User Data](#automation-with-user-data)  
 - [Conclusion](#conclusion)
 
 ## Introduction
